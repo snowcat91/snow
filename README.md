@@ -7,5 +7,6 @@ caputer image
 
 ![갤러리](https://user-images.githubusercontent.com/88028283/144372739-880bd25e-f452-4e55-999b-0321a9bb86a5.PNG)
 
-
 ![스쿠바](https://user-images.githubusercontent.com/88028283/144373117-2753032d-1c9e-4f9e-99a5-6294d69cd868.PNG)
+
+![지도](https://user-images.githubusercontent.com/88028283/144374174-231bcd40-2e09-4779-999e-e7bf524f3506.PNG)
